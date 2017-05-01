@@ -1,3 +1,4 @@
+# Author = Alexandros Ioannidis
 ######### calculate churn - seasonal random walk ###########
 cdf=read.table("C:/Users/alex/Documents/R/Projects/RFM CDNOW Implementation/CDNOW_master/CDNOW_master.txt",header=FALSE)
 cdf=as.data.frame(cbind((cdf[,c(1,2)]), rep(0,times=length(cdf[,1])))); 
