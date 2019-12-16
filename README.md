@@ -1,2 +1,2 @@
-# CHURN_CALCULATION_FOR_CDNOW_DATASET_SEASONAL_RANDOM_WALK
+# CHURN_CALCULATION_FOR_CDNOW_DATASET_with_SEASONAL_RANDOM_WALK_methodology
 Predict the churn probability according to the seasonal random walk methodology.
